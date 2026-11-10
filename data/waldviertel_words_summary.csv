@@ -1,0 +1,232 @@
+word,type,frequency,origins
+Klein,start,24,Klein-Heinrichschlag; Klein-Jetzelsdorf; Klein-Meiseldorf; Klein-Radischen; Klein-Reinprechtsdorf; Klein-Ruprechts; Klein-Siegharts; Klein-Ulrichschlag; Klein-Wien; Kleingerharts; Kleingerungs; Kleingloms; Kleinhaslau; Kleinkamp; Kleinmotten; Kleinotten; Kleinpoppen; Kleinraabs; Kleinreichenbach; Kleinschönau; Kleintaxen; Kleinweißenbach; Kleinwolfgers; Kleinzwettl
+Groß,start,17,Groß-Höbarten; Groß-Neusiedl; Groß-Radischen; Groß-Siegharts; Großgerharts; Großglobnitz; Großhaslau; Großheinrichschlag; Großkainraths; Großmotten; Großotten; Großreichenbach; Großrupprechts; Großschönau; Großtaxen; Großweißenbach; Großwolfgers
+Ober,start,15,Ober-Lembach; Ober-Meisling; Oberarnsdorf; Oberbergern; Oberbrühl; Oberfucha; Obergrünbach; Oberkirchen; Oberloiben; Obermixnitz; Oberplank; Oberrabenthan; Oberranna; Oberthürnau; Oberwindhag
+Neu,start,10,Neu-Nagelberg; Neubau; Neuhof; Neulangegg; Neumelon; Neuniederschrems; Neupölla; Neuriegers; Neusiedl; Neustift
+Unter,start,10,Unter-Meisling; Unterbergern; Unterbrühl; Unterdobrawaldhütten; Unterloiben; Untermixnitz; Unterpfaffendorf; Unterrabenthan; Unterthürnau; Unterwindhag
+Sch,start,7,Schall; Scheib; Scheiben; Schlader; Schlag; Schweinburg; Schönau
+Alt,start,6,Alt-Nagelberg; Altmanns; Altmelon; Altpölla; Altweidling; Altweitra
+Rein,start,5,Reingers; Reinolz; Reinpolz; Reinprechts; Reinprechtspölla
+St.,start,5,St. Bernhard; St. Lorenz; St. Martin; St. Michael; St. Wolfgang
+Wald,start,5,Waldberg; Waldhams; Waldhausen; Waldkirchen an der Thaya; Waldreichs
+Wie,start,5,Wiehalm; Wielands; Wielandsberg; Wielings; Wietzen
+Breiten,start,4,Breitenberg; Breiteneich; Breitenfeld; Breitensee
+Eisen,start,4,Eisenberg; Eisengraben; Eisengraberamt; Eisenreichs
+Ger,start,4,Gerlas; Germanns; Gerotten; Gerweis
+Hirschen,start,4,Hirschenhof; Hirschenschlag; Hirschenstein; Hirschenwies
+Lang,start,4,Langegg; Langfeld; Langschlag; Langschwarza
+Pfaffen,start,4,Pfaffendorf; Pfaffenreith; Pfaffenschlag; Pfaffenschlag bei Waidhofen a.d.Thaya
+Reich,start,4,Reichers; Reichhalms; Reichharts; Reichpolds
+Schön,start,4,Schönbach; Schönberg; Schönbichl; Schönfeld
+Wolfs,start,4,Wolfsbach; Wolfsberg; Wolfsegg; Wolfshof
+Bern,start,3,Bernhards; Bernreith; Bernschlag
+Buch,start,3,Buchbach; Buchberg am Kamp; Buchberger Waldhütten
+Diet,start,3,Dietharts; Dietmanns; Dietweis
+Els,start,3,Elsarn am Jauerling; Elsarn im Straßertal; Elsern
+Fel,start,3,Felbring; Felles; Felling
+Grafen,start,3,Grafenberg; Grafenegg; Grafenschlag
+Har,start,3,Harbach; Harrau; Harruck
+Hohen,start,3,Hoheneich; Hohenstein; Hohenwarth
+Hollen,start,3,Hollenbach; Hollenburg; Hollenstein
+Hör,start,3,Hörans; Hörmanns; Hörweix
+Kain,start,3,Kainraths; Kainrathschlag; Kainreith
+Kien,start,3,Kienberg; Kienings; Kiensaß
+Len,start,3,Lengau; Lengenfeld; Lengenfelderamt
+Loi,start,3,Loibes; Loimanns; Loiwein
+Mitter,start,3,Mitterarnsdorf; Mitterreith; Mitterschlag
+Mühl,start,3,Mühlbach; Mühldorf; Mühlfeld
+Nie,start,3,Niederedlitz; Niederglobnitz; Niederschrems
+Rei,start,3,Reibers; Reichau; Reisling
+Reinberg,start,3,Reinberg-Dobersberg; Reinberg-Heidenreichstein; Reinberg-Litschau
+Reit,start,3,Reitern; Reitgraben; Reittern
+Rie,start,3,Riebeis; Riegers; Rieweis
+Sieben,start,3,Siebenberg; Siebenhöf; Siebenlinden
+Wein,start,3,Weinberg; Weinern; Weinpolz
+Alb,start,2,Albern; Albrechts
+All,start,2,Allentsgschwendt; Allentsteig
+Alten,start,2,Altenburg; Altenhof
+Arn,start,2,Arnolz; Arnreith
+Diendorf Am,start,2,Diendorf am Kamp; Diendorf am Walde
+Edel,start,2,Edelhof; Edelprinz
+Egg,start,2,Eggern; Eggmanns
+Eggen,start,2,Eggenburg; Eggendorf
+Engel,start,2,Engelbrechts; Engelstein
+Engels,start,2,Engelschalks; Engelsdorf
+Etzmanns,start,2,Etzmannsdorf am Kamp; Etzmannsdorf bei Straning
+Fichten,start,2,Fichtenbach; Fichtenhöfen
+Frauen,start,2,Frauendorf; Frauenhofen
+Fug,start,2,Fuglau; Fugnitz
+Gar,start,2,Garmanns; Garolden
+Gos,start,2,Goschenreith am Taxenbache; Goslarn
+Grün,start,2,Grünbach; Grünberg
+Götz,start,2,Götzles; Götzweis
+Hasel,start,2,Haselbach; Haselberg
+Heinrichs,start,2,Heinrichsdorf; Heinrichsreith
+Hunds,start,2,Hundsbach; Hundsheim
+Höhen,start,2,Höhenberg; Höhendorf
+Kalten,start,2,Kaltenbach; Kaltenbrunn
+Kam,start,2,Kamegg; Kamles
+Karl,start,2,Karlstein an der Thaya; Karlstift
+Kirch,start,2,Kirchbach; Kirchschlag
+Klee,start,2,Kleedorf; Kleehof
+Kollmitz,start,2,Kollmitzdörfl; Kollmitzgraben
+Kot,start,2,Kottaun; Kottes
+Kron,start,2,Kronberg; Kronegg
+Kru,start,2,Krumauer Waldhütten; Krustetten
+Lim,start,2,Limbach; Limpfings
+Loit,start,2,Loitzendorf; Loitzenreith
+Mai,start,2,Maigen; Maißen
+Matz,start,2,Matzles; Matzlesschlag
+Merken,start,2,Merkenbrechts; Merkengerst
+Mittel,start,2,Mittelberg; Mittelbergeramt
+Mod,start,2,Modlisch; Modsiedl
+Nieder,start,2,Niederneustift; Niederranna
+Non,start,2,Nondorf; Nonndorf bei Gars
+Obern,start,2,Oberndorf; Obernholz
+Obert,start,2,Obertautendorferamt; Oberthumeritz
+Otten,start,2,Ottenschlag; Ottenstein
+Pern,start,2,Perndorf; Pernegg
+Pur,start,2,Purken; Purrath
+Rasten,start,2,Rastenberg; Rastenfeld
+Reitzen,start,2,Reitzendorf; Reitzenschlag
+Roggen,start,2,Roggendorf; Roggenreith
+Rohren,start,2,Rohrendorf bei Krems; Rohrenreith
+Rosenau,start,2,Rosenau Dorf; Rosenau Schloss
+Roth,start,2,Rothfarn; Rothweinsdorf
+Rud,start,2,Ruders; Rudmanns
+Salling,start,2,Sallingberg; Sallingstadt
+Schober,start,2,Schoberdorf; Schoberhof
+Schr,start,2,Schrems; Schroffen
+Schwarzen,start,2,Schwarzenbach; Schwarzenberg
+Siegharts,start,2,Sieghartsles; Sieghartsreith
+Spiel,start,2,Spielberg; Spielleithen
+Stein,start,2,Steinbach; Steinegg
+Thal,start,2,Thalham; Thallern
+Tiefen,start,2,Tiefenbach; Tiefenfucha
+Voit,start,2,Voitsau; Voitschlag
+Wai,start,2,Waiden; Waidhofen an der Thaya
+Weißen,start,2,Weißenbach; Weißenkirchen in der Wachau
+Wetz,start,2,Wetzlas; Wetzles
+Wolfen,start,2,Wolfenreith; Wolfenstein
+Zwettl,start,2,Zwettl Stift; Zwettl-Niederösterreich
+Dorf,end,95,Alberndorf; Amaliendorf; Amelsdorf; Autendorf; Bruderndorf; Buttendorf; Böhmsdorf; Doberndorf; Donaudorf; Eggendorf; Eggersdorf; Ehrendorf; Engelsdorf; Falkendorf; Frauendorf; Friedersdorf; Gauderndorf; Gedersdorf; Gneixendorf; Gobelsdorf; Grottendorf; Großnondorf; Grunddorf; Haitzendorf; Harmannsdorf; Heinrichsdorf; Hessendorf; Höhendorf; Hötzelsdorf; Jeitendorf; Josefsdorf; Kleedorf; Kleinnondorf; Koggendorf; Kotting Nondorf; Kotzendorf; Landersdorf; Lehndorf; Leopoldsdorf; Litzendorf; Lobendorf; Loibersdorf; Lugendorf; Mahrersdorf; Matzelsdorf; Missingdorf; Mitterndorf; Mörtersdorf; Mühldorf; Niedernondorf; Nondorf; Nonndorf; Nonnersdorf; Nödersdorf; Oberndorf; Obernondorf; Oberpfaffendorf; Paudorf; Pehendorf; Perndorf; Pfaffendorf; Pingendorf; Pommersdorf; Posselsdorf; Primmersdorf; Prutzendorf; Purkersdorf; Raisdorf; Rassingdorf; Reitzendorf; Roggendorf; Rosenau Dorf; Rührsdorf; Sachsendorf; Schacherdorf; Scheideldorf; Schlickendorf; Schoberdorf; Sittendorf; Sitzendorf; Sonndorf; Speisendorf; Stixendorf; Stoitzendorf; Stratzdorf; Tautendorf; Trabersdorf; Trautmannsdorf; Walpersdorf; Wiedendorf; Wollmersdorf; Wutzendorf; Zemmendorf; Zissersdorf; Zogelsdorf
+Bach,end,58,Aggsbach; Angelbach; Buchbach; Dietrichsbach; Echsenbach; Eulenbach; Fichtenbach; Griesbach; Groisbach; Großhaselbach; Größenbach; Grünbach; Harbach; Haselbach; Hausbach; Heubach; Hirschbach; Hollenbach; Hundsbach; Höbenbach; Jagenbach; Kaltenbach; Kasbach; Kehrbach; Kirchbach; Königsbach; Lembach; Limbach; Mauternbach; Mistelbach; Mostbach; Mühlbach; Münzbach; Niedergrünbach; Niederstrahlbach; Oberstrahlbach; Pürbach; Rastbach; Reichenbach; Reinsbach; Rohrbach; Rossatzbach; Rottenbach; Röhrenbach; Schwallenbach; Schwarzenbach; Schönbach; Sparbach; Steinbach; Streitbach; Süssenbach; Süßenbach; Tiefenbach; Unterlembach; Uttissenbach; Weißenbach; Wolfsbach; Ötzbach
+Berg,end,49,Breitenberg; Bromberg; Dobersberg; Dürnberg; Edlesberg; Eichberg; Eisenberg; Ensberg; Eppenberg; Fraberg; Fromberg; Georgenberg; Grafenberg; Grünberg; Gürtelberg; Haselberg; Himberg; Hummelberg; Höhenberg; Idolsberg; Kienberg; Kornberg; Kronberg; Lichtenberg; Liebenberg; Loschberg; Martinsberg; Mittelberg; Plaimberg; Pleßberg; Rastenberg; Rehberg; Sallingberg; Schafberg; Schneeberg; Schwarzenberg; Schönberg; Schützenberg; Siebenberg; Spielberg; Stierberg; Thurnberg; Wachtberg; Waldberg; Wartberg; Weinberg; Weixelberg; Wolfsberg; Zitternberg
+Reith,end,32,Arnreith; Attenreith; Bernreith; Elsenreith; Etzelsreith; Frankenreith; Goschenreith; Heinrichsreith; Kainreith; Kriegenreith; Mitterreith; Moritzreith; Münichreith; Niederwaltenreith; Oberwaltenreith; Pfaffenreith; Pirkenreith; Rabesreith; Roggenreith; Rohrenreith; Sabatenreith; Schirmannsreith; Sieghartsreith; Singenreith; Trabenreith; Wappoltenreith; Wiesenreith; Wiesmannsreith; Wolfenreith; Zabernreith; Zettenreith; Ziernreith
+Schlag,end,32,Armschlag; Bernschlag; Biberschlag; Diemschlag; Freitzenschlag; Gotthardschlag; Grafenschlag; Großpertenschlag; Göpfritzschlag; Haimschlag; Haugschlag; Hirschenschlag; Immenschlag; Jungschlag; Kinzenschlag; Kirchschlag; Kleinpertenschlag; Kogschlag; Langschlag; Meinhartschlag; Mitterschlag; Oberndorf bei Weikertschlag; Ottenschlag; Pfaffenschlag; Poggschlag; Rappoltschlag; Reitzenschlag; Ulrichschlag; Voitschlag; Walterschlag; Weikartschlag; Weikertschlag
+Hof,end,19,Altenhof; Bernhardshof; Edelhof; Hirschenhof; Jaidhof; Kleehof; Koblhof; Koppenhof; Neuhof; Rabenhof; Ratschenhof; Richterhof; Rothenhof; Scheibenhof; Schickenhof; Schoberhof; Wilhelmshof; Windhof; Wolfshof
+Les,end,16,Felles; Gaßles; Götzles; Günsles; Heitzles; Jetzles; Kamles; Klein Wetzles; Matzles; Prettles; Pötzles; Ranzles; Schlagles; Sieghartsles; Stölzles; Wetzles
+Manns,end,15,Altmanns; Dietmanns; Eggmanns; Garmanns; Germanns; Großharmanns; Hörmanns; Illmanns; Kleinharmanns; Kottinghörmanns; Loimanns; Rudmanns; Sitzmanns; Teichmanns; Watzmanns
+Stein,end,12,Eibenstein; Engelstein; Grillenstein; Hirschenstein; Hohenstein; Hollenstein; Marchstein; Merzenstein; Ottenstein; Waldenstein; Walkenstein; Wolfenstein
+Kamp,end,11,Diendorf am Kamp; Gars am Kamp; Hadersdorf am Kamp; Kleinkamp; Krumau am Kamp; Plank am Kamp; Ritterkamp; Schmerbach am Kamp; Thunau am Kamp; Walkersdorf am Kamp; Wegscheid am Kamp
+Feld,end,10,Breitenfeld; Feinfeld; Langfeld; Mühlfeld; Rastenfeld; Schönfeld; Syrafeld; Weitersfeld; Wiederfeld; Wiesensfeld
+Egg,end,9,Grafenegg; Kamegg; Kronegg; Langegg; Maria Langegg; Pernegg; Steinegg; Weidenegg; Wolfsegg
+Ein,end,9,Bad Traunstein; Dallein; Dürnstein; Greillenstein; Großeibenstein; Harmannstein; Kleineibenstein; St. Marein; Starrein
+Ern,end,9,Albern; Angern; Eggern; Elsern; Gastern; Kammern; Reitern; Stockern; Weinern
+Holz,end,9,Bad Großpertholz; Dankholz; Grossgundholz; Klein Gundholz; Kleinpertholz; Moniholz; Obernholz; Schuppertholz; Unterpertholz
+Wald,end,9,Bruderndorferwald; Brunn am Wald; Fürwald; Langschlägerwald; Ober Rosenauerwald; Reichenau am Freiwald; Reichenauerwald; St. Leonhard am Hornerwald; Unterrosenauerwald
+Wild,end,9,Blumau an der Wild; Brunn an der Wild; Dietmannsdorf an der Wild; Göpfritz an der Wild; Kirchberg an der Wild; Neukirchen an der Wild; Nondorf an der Wild; Oedt an der Wild; Schönfeld an der Wild
+Amt,end,8,Droßeramt; Gföhleramt; Meislingeramt; Mottingeramt; Reichaueramt; Schiltingeramt; Untertautendorferamt; Wolfshoferamt
+Nitz,end,8,Fernitz; Fugnitz; Gradnitz; Jasnitz; Lexnitz; Liebnitz; Oberfladnitz; Sprögnitz
+Weis,end,8,Dietweis; Eberweis; Erdweis; Gerweis; Götzweis; Ludweis; Pallweis; Rieweis
+Ings,end,7,Kienings; Ladings; Pfaffings; Rafings; Trittings; Wienings; Willings
+Nau,end,7,Eschenau; Grünau; Hohenau; Lichtenau; Schwarzenau; Türnau; Wertenau
+Brunn,end,6,Engabrunn; Grainbrunn; Gutenbrunn; Guttenbrunn; Kaltenbrunn; Schenkenbrunn
+Graben,end,6,Eisengraben; Kollmitzgraben; Litschgraben; Reitgraben; Wendelgraben; Wurfenthalgraben
+Ling,end,6,Dimling; Felling; Jaudling; Meidling; Thumling; Vießling
+Arts,end,5,Groß Meinharts; Großeberharts; Klein Eberharts; Kleinmeinharts; Wörnharts
+Burg,end,5,Altenburg; Eggenburg; Fronsburg; Hollenburg; Rosenburg
+Fritz,end,5,Großgöttfritz; Irnfritz; Kleingöpfritz; Kleingöttfritz; Seifritz
+Reichs,end,5,Eisenreichs; Friedreichs; Heinreichs; Preinreichs; Waldreichs
+Arnsdorf,end,4,Bacharnsdorf; Hofarnsdorf; Mitterarnsdorf; Oberarnsdorf
+Bruck,end,4,Eschabruck; Pretrobruck; Pyhrabruck; Roßbruck
+Den,end,4,Gloden; Reinbolden; Waiden; Wiesmaden
+Gers,end,4,Reingers; Riegers; Rieggers; Schweiggers
+Harts,end,4,Dietharts; Gebharts; Marharts; Reichharts
+Olz,end,4,Arnolz; Artolz; Hypolz; Reinolz
+Rechts,end,4,Albrechts; Gopprechts; Großreinprechts; Klein Reinprechts
+Res,end,4,Meires; Thaures; Thures; Zweres
+Ring,end,4,Köfering; Kühnring; Mödring; Zintring
+Schau,end,4,Hörmanns bei Litschau; Litschau; Schönau bei Litschau; Wultschau
+Stadt,end,4,Dorfstadt; Drosendorf Altstadt; Drosendorf Stadt; Sallingstadt
+Stift,end,4,Karlstift; Neustift; Ober Neustift; Zwettl Stift
+Walde,end,4,Diendorf am Walde; Kirchberg am Walde; Marbach am Walde; Weinzierl am Walde
+All,end,3,Groß Burgstall; Purgstall; Schall
+Donau,end,3,Krems an der Donau; Mautern an der Donau; Stein an der Donau
+Ers,end,3,Negers; Reichers; Ruders
+Gen,end,3,Maigen; Poigen; Strögen
+Halm,end,3,Mannshalm; Wiehalm; Wilhalm
+Haya,end,3,Münchreith an der Thaya; Raabs an der Thaya; Weikertschlag an der Thaya
+Las,end,3,Endlas; Gerlas; Wetzlas
+Neustift,end,3,Niederneustift; Schönberg-Neustift; Thürneustift
+Otten,end,3,Gerotten; Großotten; Kleinotten
+Siedl,end,3,Drösiedl; Modsiedl; Neusiedl
+Weitra,end,3,Altweitra; Heinrichs bei Weitra; Hörmanns bei Weitra
+Wies,end,3,Hirschenwies; Rörndlwies; Scheiblwies
+Wiesen,end,3,Arzwiesen; Burgerwiesen; Röhrawiesen
+Zen,end,3,Franzen; Kautzen; Zwinzen
+Abs,end,2,Nonndorf bei Raabs; Oberndorf bei Raabs
+Ans,end,2,Hörans; Voirans
+Bergern,end,2,Oberbergern; Unterbergern
+Bitz,end,2,Selbitz; Taubitz
+Brechts,end,2,Engelbrechts; Merkenbrechts
+Brühl,end,2,Oberbrühl; Unterbrühl
+Dorf Am Kamp,end,2,Etsdorf am Kamp; Etzmannsdorf am Kamp
+Eich,end,2,Breiteneich; Hoheneich
+Erbach,end,2,Lauterbach; Schmerbach
+Farn,end,2,Kuffarn; Rothfarn
+Felde,end,2,Brunn im Felde; Marbach im Felde
+Fucha,end,2,Oberfucha; Tiefenfucha
+Garten,end,2,Baumgarten; Peigarten
+Gau,end,2,Langau; Lengau
+Gerharts,end,2,Großgerharts; Kleingerharts
+Gersdorf,end,2,Rodingersdorf; Staningersdorf
+Grub,end,2,Kalkgrub; Zaingrub
+Göttweig,end,2,Furth bei Göttweig; Stift Göttweig
+Haslau,end,2,Großhaslau; Kleinhaslau
+Heinrichschlag,end,2,Großheinrichschlag; Klein-Heinrichschlag
+Höf,end,2,Böhmhöf; Siebenhöf
+Höfen,end,2,Fichtenhöfen; Mayerhöfen
+Ing,end,2,Joching; Zöbing
+Kirchen,end,2,Brunnkirchen; Oberkirchen
+Lands,end,2,Mollands; Wielands
+Lau,end,2,Fuglau; Haslau
+Lern,end,2,Häuslern; Thallern
+Lings,end,2,Vierlings; Wielings
+Loiben,end,2,Oberloiben; Unterloiben
+Meisling,end,2,Ober-Meisling; Unter-Meisling
+Melon,end,2,Altmelon; Neumelon
+Mixnitz,end,2,Obermixnitz; Untermixnitz
+Motten,end,2,Großmotten; Kleinmotten
+Nagelberg,end,2,Alt-Nagelberg; Neu-Nagelberg
+Ning,end,2,Sarning; Straning
+Ofen,end,2,Altwaidhofen; Ludweishofen
+Olden,end,2,Garolden; Jarolden
+Ottenstein,end,2,Peygarten-Ottenstein; Rappottenstein
+Polds,end,2,Leopolds; Reichpolds
+Polz,end,2,Reinpolz; Weinpolz
+Poppen,end,2,Kleinpoppen; Vestenpoppen
+Pölla,end,2,Altpölla; Neupölla
+Rabenthan,end,2,Oberrabenthan; Unterrabenthan
+Radischen,end,2,Groß-Radischen; Klein-Radischen
+Ranna,end,2,Niederranna; Oberranna
+Reichenbach,end,2,Großreichenbach; Kleinreichenbach
+Rings,end,2,Jahrings; Zierings
+Ritz,end,2,Fistritz; Unterthumeritz
+Ruck,end,2,Habruck; Harruck
+Sau,end,2,Ramsau; Voitsau
+Sch,end,2,Ebergersch; Maiersch
+Schwarza,end,2,Kurzschwarza; Langschwarza
+Schönau,end,2,Großschönau; Kleinschönau
+See,end,2,Breitensee; Egelsee
+Siegharts,end,2,Groß-Siegharts; Klein-Siegharts
+Tal,end,2,Rottal; Spital
+Taxen,end,2,Großtaxen; Kleintaxen
+Ten,end,2,Motten; Roiten
+Tern,end,2,Reittern; Schiltern
+Thale,end,2,Grub im Thale; St. Johann im Mauerthale
+Thürnau,end,2,Oberthürnau; Unterthürnau
+Ungs,end,2,Groß Gerungs; Warnungs
+Weißenbach,end,2,Großweißenbach; Kleinweißenbach
+Windhag,end,2,Oberwindhag; Unterwindhag
+Wolfgers,end,2,Großwolfgers; Kleinwolfgers
