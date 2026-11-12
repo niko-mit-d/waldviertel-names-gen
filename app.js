@@ -118,10 +118,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (isReal) {
         imaginaryBadgeEl.className = "imaginary-badge real";
-        imaginaryBadgeEl.innerHTML = "⚠️ Reale Ortschaft (existiert im Waldviertel)";
+        imaginaryBadgeEl.innerHTML = "⚠️ Reale Ortschaft";
       } else {
         imaginaryBadgeEl.className = "imaginary-badge";
-        imaginaryBadgeEl.innerHTML = "✨ 100% Frei erfunden (Waldviertler Klang)";
+        imaginaryBadgeEl.innerHTML = "✨ Frei erfunden";
       }
 
       // Start word details

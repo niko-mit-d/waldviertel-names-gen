@@ -21,7 +21,6 @@
     <div class="header-content">
       <span class="badge-region">Niederösterreich • Waldviertel</span>
       <h1>Waldviertler Ortsnamen-Generator</h1>
-      <p class="subtitle">Zusammengesetzte imaginäre Dorfnamen nach dem echten linguistischen Klangbild des Waldviertels</p>
     </div>
   </header>
 
@@ -31,7 +30,7 @@
       <div class="village-name-display">
         <div id="village-name" class="village-name" aria-live="polite">Laden...</div>
         <div id="imaginary-badge" class="imaginary-badge">
-          ✨ 100% Frei erfunden (Waldviertler Klang)
+          ✨ Frei erfunden
         </div>
       </div>
 
@@ -76,11 +75,10 @@
 
       <!-- Linguistic Breakdown -->
       <section aria-labelledby="breakdown-title">
-        <h2 id="breakdown-title" style="font-size: 1.1rem; color: var(--primary); text-align: left; margin-bottom: 0.5rem;">Linguistische Zusammensetzung</h2>
         <div class="components-breakdown">
           <div class="component-box">
             <div class="component-header">
-              <span class="component-label">Anfangswort (Präfix)</span>
+              <span class="component-label">Anfangswort</span>
               <span id="start-freq" class="component-freq"></span>
             </div>
             <div id="start-word" class="component-word">-</div>
@@ -90,7 +88,7 @@
 
           <div class="component-box">
             <div class="component-header">
-              <span class="component-label">Endwort (Suffix)</span>
+              <span class="component-label">Endwort</span>
               <span id="end-freq" class="component-freq"></span>
             </div>
             <div id="end-word" class="component-word">-</div>
@@ -122,7 +120,7 @@
           </div>
         </div>
         <label class="toggle-label">
-          <input type="checkbox" id="toggle-fictional" checked>
+          <input type="checkbox" id="toggle-fictional">
           <span>Garantieren: Nur rein fiktive Ortsnamen (keine bestehenden Waldviertler Orte)</span>
         </label>
       </section>
@@ -164,27 +162,11 @@
           <div class="stat-label">Mehrfach-Endwörter</div>
         </div>
       </div>
-
-      <h3 style="font-size: 1.1rem; color: var(--primary); margin-top: 1.25rem; margin-bottom: 0.5rem;">Erstellte CSV-Datensätze:</h3>
-      <div class="csv-links">
-        <a class="csv-link" href="data/waldviertel_ortsnamen.csv" download>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-          waldviertel_ortsnamen.csv (1.063 Orte mit Bezirk)
-        </a>
-        <a class="csv-link" href="data/waldviertel_extracted_words.csv" download>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-          waldviertel_extracted_words.csv (Einzelvorkommen & Herkunft)
-        </a>
-        <a class="csv-link" href="data/waldviertel_words_summary.csv" download>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-          waldviertel_words_summary.csv (Aggregierte Wörter)
-        </a>
-      </div>
     </article>
   </main>
 
   <footer>
-    <p>Waldviertel Namen-Generator • Niederösterreich • Entwickelt mit CharSplit & Statistik Austria Geodaten</p>
+    <p>Waldviertel Ortsnamen-Generator • Niederösterreich • Entwickelt mit CharSplit & Statistik Austria Geodaten</p>
   </footer>
 
   <script src="web_data.js"></script>
