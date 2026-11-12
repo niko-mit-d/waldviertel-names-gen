@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Waldviertel Ortsnamen-Generator | Imaginäre Ortschaften</title>
   <meta name="description" content="Generiere authentisch klingende, zusammengesetzte fiktive Ortsnamen für das niederösterreichische Waldviertel basierend auf statistischen Wortbestandteilen.">
+   <script type="importmap">
+      {
+        "imports": {
+          "leaflet":
+          "https://cdn.jsdelivr.net/npm/leaflet@2.0.0-beta.3/dist/leaflet.js"
+        }
+      }
+    </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@2.0.0-beta.3/dist/leaflet.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -90,9 +99,7 @@
           </div>
         </div>
 
-
-      
-
+      <div id="map" style="height: 500px; margin: 2rem 0rem; border-radius: var(--radius-lg);"></div>
       </section>
 
       <!-- Customization Controls -->
@@ -181,6 +188,6 @@
   </footer>
 
   <script src="web_data.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js" type="module"></script>
 </body>
 </html>

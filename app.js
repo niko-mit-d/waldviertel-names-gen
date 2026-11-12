@@ -1,6 +1,10 @@
+// import {LeafletMap, TileLayer} from "https://cdn.jsdelivr.net/npm/leaflet@2.0.0-beta.3/dist/leaflet.js";
+import {LeafletMap, TileLayer, GeoJSON} from 'leaflet';
+
 // Waldviertel Imaginary Village Name Generator
 document.addEventListener("DOMContentLoaded", () => {
   const data = window.WALDVIERTEL_DATA;
+  const border_data = window.BORDER_DATA;
 
   if (!data || !data.startWords || !data.endWords) {
     console.error("Waldviertel data not loaded.");
@@ -48,6 +52,16 @@ document.addEventListener("DOMContentLoaded", () => {
     opt.textContent = `${item.word} (${item.count}x)`;
     endSelect.appendChild(opt);
   });
+
+  // Map section
+  const map = new LeafletMap('map').setView([48.6, 15.3], 9);
+  new TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; OpenStreetMap'
+  }).addTo(map);
+  for(let feature of border_data.features){
+    new GeoJSON(feature).addTo(map);
+  }
 
   function formatCompound(start, end) {
     if (start.endsWith("-")) {

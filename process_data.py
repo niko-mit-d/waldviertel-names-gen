@@ -12,6 +12,7 @@ import json
 import os
 from collections import Counter, defaultdict
 import charsplit
+from geopy.geocoders import Nominatim
 
 # Lower Austria (GKZ prefix 3) Bezirke belonging to Waldviertel:
 # 301: Krems an der Donau (Statutarstadt)
@@ -40,6 +41,7 @@ WEB_DATA_JS = os.path.join(BASE_DIR, 'web_data.js')
 
 def load_waldviertel_data():
     records = []
+    # geolocator = Nominatim(user_agent="waldviertel_name_generator_2", timeout=10)
     with open(INPUT_CSV, 'r', encoding='utf-8', errors='replace') as f:
         reader = csv.reader(f)
         for row in reader:
@@ -50,6 +52,10 @@ def load_waldviertel_data():
                 gkz = row[3].strip()
                 gemeindename = row[4].strip() if len(row) > 4 else ''
                 bezirk = WALDVIERTEL_BEZIRKE[gkz[:3]]
+
+                # location = geolocator.geocode(ortsname, country_codes="at")
+                # print(f"\t{ortsname}: {(location.latitude, location.longitude)}")
+
                 records.append({
                     'okz': okz,
                     'ortsname': ortsname,
@@ -57,6 +63,8 @@ def load_waldviertel_data():
                     'plz': plz,
                     'gkz': gkz,
                     'gemeindename': gemeindename,
+                    # 'latitude': location.latitude,
+                    # 'longitude': location.longitude
                 })
     return records
 
