@@ -41,7 +41,7 @@ Create a virtual environment and install dependencies:
 ```bash
 uv venv
 source .venv/bin/activate
-uv pip install "git+https://github.com/dtuggener/CharSplit"
+uv pip install "git+https://github.com/dtuggener/CharSplit" geopy
 ```
 
 ### Run Extraction
@@ -57,7 +57,7 @@ python process_data.py
 Open `index.html` directly in any web browser or serve via:
 
 ```bash
-python3 -m http.server 8000
+python -m http.server 8000
 ```
 
 ### Webpage Features
